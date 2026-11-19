@@ -1,0 +1,15 @@
+# Hirewell – Job Board Portal
+
+A responsive, front-end-only job board portal built with plain HTML, CSS and JavaScript. Job seekers can search and apply for jobs and track their applications, and employers can post jobs and manage applicants. Data is stored in the browser with localStorage, so there is no backend to set up.
+
+## Features
+- Login and register with job seeker and employer roles
+- Search, category, job type and location filters, plus sorting
+- Structured forms to post, edit, close and delete jobs
+- Application tracking: Applied, Screening, Interview, Offer, Rejected
+- Overview dashboard with live counts and charts
+- Salaries shown in ₹ (INR)
+- Responsive layout with light and dark mode
+
+## Run locally
+Download or clone the repo and open `index.html` in your browser.
